@@ -20,3 +20,10 @@
 - limit access
 - cdn for faster delivery
 - host on azure
+
+# how to run locally
+1. `git clone https://github.com/rxngif/rxngif.git`
+2. `python3 -m venv env`
+
+# resources
+1. https://www.django-rest-framework.org/tutorial/quickstart/
