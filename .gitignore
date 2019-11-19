@@ -3,4 +3,4 @@ secrets.txt
 /uploadgifs/db.sqlite3
 /uploadgifs/quickstart/__pycache__
 /uploadgifs/quickstart/migrations
-/uploadgifs/__pycache__
+/uploadgifs/uploadgifs/__pycache__
